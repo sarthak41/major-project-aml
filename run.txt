@@ -1,0 +1,6 @@
+python main.py --data Small_HI --model gin --tqdm --save_model --load_ckpt --unique_name gin
+
+python main.py --data Small_HI --model gin --tqdm --emlps --reverse_mp --ego --ports --save_model --load_ckpt --unique_name multi_gin
+
+python main.py --data Small_HI --model pna --tqdm --inference --load_ckpt --unique_name pna1
+python main.py --data Small_HI --model pna --tqdm --save_model --load_ckpt --unique_name pna1

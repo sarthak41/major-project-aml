@@ -1,0 +1,7 @@
+{
+    "paths": {
+      "aml_data": "/data",
+      "model_to_load": "/models",
+      "model_to_save": "/models"
+    }
+  }

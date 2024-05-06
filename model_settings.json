@@ -1,0 +1,14 @@
+{
+  "gin": {
+    "params": {
+      "lr": 0.006213266113989207, "n_hidden": 66.00315515631006, "n_mlp_layers": 1, "n_gnn_layers": 2, "loss": "ce",
+      "w_ce1": 1.0000182882773443, "w_ce2": 6.275014431494497, "norm_method": "z_normalize", "dropout": 0.00983468338330501, "final_dropout": 0.10527690625126304
+    }
+  },
+  "pna": {
+    "params": {
+      "lr": 0.0006116418195373612, "n_hidden": 20, "n_mlp_layers": 1, "n_gnn_layers": 2, "loss": "ce", "w_ce1": 1.0003967674742307,
+      "w_ce2": 7.077633468006714, "norm_method": "z_normalize", "dropout": 0.08340440094051481, "final_dropout": 0.28812979737686323
+    }
+  }
+}
